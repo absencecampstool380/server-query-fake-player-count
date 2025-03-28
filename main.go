@@ -208,3 +208,4 @@ func maxStringLength(data []byte) int {
 	}
 	return length + 1
 }
+
