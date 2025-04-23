@@ -24,3 +24,4 @@ Faker->>Client: SSQ response modified
 | `-verbose` | `false` | verbose logging |
 
 Then launch `faker` with the `-address` parameter matching the address of your DayZ server. The `-port` parameter is the new port of your server that the players will connect to. It has to be opened in the firewall.
+
